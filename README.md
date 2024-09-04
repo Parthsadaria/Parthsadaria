@@ -19,16 +19,4 @@ I'm Parth Sadaria, a diploma student from GP Jamnagar, India. I'm a tech enthusi
 **My Projects**
 --------------
 
-* **NexuAI**: A free and open-source AI assistant that combines smart conversations with task automation. [Check it out!](https://github.com/Parthsadaria/Nexu)
-
-**Stats**
--------
-
-* 👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/Parthsadaria?style=for-the-badge)
-* ⭐️ Total Stars: ![GitHub stars](https://img.shields.io/github/stars/Parthsadaria?style=for-the-badge)
-* 📊 Profile views: ![](https://komarev.com/ghpvc/?username=Parthsadaria&style=for-the-badge)
-
-**Skills**
-----------
-
-* Programming languages: Python, C, C++, HTML, CSS, JavaScript
+* **NexuAI**: A free and open-source AI assistant that combines smart conversations with task automation. [Check it out!](https://github.com/Parthsadaria/NexuAI)
