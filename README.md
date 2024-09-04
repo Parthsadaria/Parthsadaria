@@ -1,7 +1,34 @@
-- 👋 Hi, I’m @Parthsadaria
-- 👀 DIPLOMA STUDENT (GP JAMNAGAR)
-- 🌱 I’m currently learning PYTHON,C,C++,HTML,CSS,JS
-<!---
-Parthsadaria/Parthsadaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Profile README**
+=====================
+
+![](https://komarev.com/ghpvc/?username=Parthsadaria&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Parthsadaria?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Parthsadaria?style=for-the-badge)
+
+Hi there! 👋
+
+I'm Parth Sadaria, a diploma student from GP Jamnagar, India. I'm a tech enthusiast, AI enthusiast, and an avid learner. 🤖
+
+**About Me**
+-------------
+
+* 🔭 I'm currently learning Python, C, C++, HTML, CSS, and JavaScript.
+* 🤝 I'm looking to collaborate on innovative projects that push the boundaries of AI and machine learning.
+* 📫 Reach me at [your email address](mailto:your_email_address).
+
+**My Projects**
+--------------
+
+* **NexuAI**: A free and open-source AI assistant that combines smart conversations with task automation. [Check it out!](https://github.com/Parthsadaria/Nexu)
+
+**Stats**
+-------
+
+* 👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/Parthsadaria?style=for-the-badge)
+* ⭐️ Total Stars: ![GitHub stars](https://img.shields.io/github/stars/Parthsadaria?style=for-the-badge)
+* 📊 Profile views: ![](https://komarev.com/ghpvc/?username=Parthsadaria&style=for-the-badge)
+
+**Skills**
+----------
+
+* Programming languages: Python, C, C++, HTML, CSS, JavaScript
