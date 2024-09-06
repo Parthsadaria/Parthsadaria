@@ -13,7 +13,6 @@ I'm Parth Sadaria, a diploma student from GP Jamnagar, India. I'm a tech enthusi
 -------------
 
 * 🔭 I'm currently learning Python, C, C++, HTML, CSS, and JavaScript.
-* 🤝 I'm looking to collaborate on innovative projects that push the boundaries of AI and machine learning.
 * 📫 Reach me at [My Email](mailto:parth160508@gmail.com).
 
 **My Projects**
