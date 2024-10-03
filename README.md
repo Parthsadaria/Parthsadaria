@@ -13,7 +13,7 @@ I'm Parth Sadaria, a diploma student from GP Jamnagar, India. I'm a tech enthusi
 -------------
 
 * 🔭 I'm currently learning Python, C, C++, HTML, CSS, and JavaScript.
-* Working On (Loki.AI)[lokiai.netlify.app]
+* 🤖 Learning How to Reverse Engineer APIs.
 
 **My Projects**
 --------------
