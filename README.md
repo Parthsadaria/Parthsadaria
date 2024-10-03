@@ -13,7 +13,7 @@ I'm Parth Sadaria, a diploma student from GP Jamnagar, India. I'm a tech enthusi
 -------------
 
 * 🔭 I'm currently learning Python, C, C++, HTML, CSS, and JavaScript.
-* 📫 Reach me at [My Email](mailto:parth160508@gmail.com).
+* Working On (Loki.AI)[lokiai.netlify.app]
 
 **My Projects**
 --------------
