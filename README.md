@@ -6,17 +6,13 @@
 ![GitHub stars](https://img.shields.io/github/stars/Parthsadaria?style=for-the-badge)
 
 Hi there! 👋
-
-I'm Parth Sadaria, a diploma student from GP Jamnagar, India. I'm a tech enthusiast, AI enthusiast, and an avid learner. 🤖
+I'm Parth Sadaria, a diploma student from GP Jamnagar, India. I'm a tech enthusiast, AI enthusiast, and an curious learner. 🤖
 
 **About Me**
 -------------
-
 * 🔭 I'm currently learning Python, C, C++, HTML, CSS, and JavaScript.
-* 🤖 Learning How to Reverse Engineer APIs.
-
+* 🤖 Making AI ML Projects.
 **My Projects**
 --------------
-
 * **NexuAI**: A free and open-source AI assistant that combines smart conversations with task automation. [Check it out!](https://github.com/Parthsadaria/NexuAI)
-* **Loki AI**: Free, open-source AI with GPT-4o,o1-preview,o1-mini,Claude, Mistral & more 🤖. Sleek design, smart chats & automation ⚡. [Try it!](https://lokiai.netlify.app)
+* **Loki AI**: Free Chatai with GPT-4o,o1-preview,o1-mini,Claude, Mistral & more 🤖. Sleek design, smart chats & automation ⚡. [Try it!](https://lokiai.netlify.app)
