@@ -31,11 +31,12 @@ Myself **Parth Sadaria**, a diploma student at **GP Jamnagar**. Tech and AI enth
   
   ### GitHub Stats 📊
 
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ParthSadaria&theme=dark" height="180px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthSadaria&theme=dark" height="180px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSadaria&theme=dark&layout=compact" height="180px" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthSadaria&theme=dark" height="150px" style="display: inline-block; margin: 0 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthSadaria&theme=dark" height="150px" style="display: inline-block; margin: 0 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSadaria&theme=dark&layout=compact" height="150px" style="display: inline-block; margin: 0 10px;" />
+</div>
+
 
 </div>
 
