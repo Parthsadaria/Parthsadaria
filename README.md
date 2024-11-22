@@ -37,16 +37,6 @@ Myself **Parth Sadaria**, a diploma student at **GP Jamnagar**. Tech and AI enth
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSadaria&theme=dark&layout=compact" height="150px" style="display: inline-block; margin: 0 10px;" />
 </div>
 
-### Techs Known
-![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
-![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Uvicorn Badge](https://img.shields.io/badge/Uvicorn-5E7B1F?style=for-the-badge&logo=uvicorn&logoColor=white) 
-![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 </div>
 
 ---
@@ -58,4 +48,18 @@ Myself **Parth Sadaria**, a diploma student at **GP Jamnagar**. Tech and AI enth
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParthSadaria&custom_title=Parth%27s%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=888888&point=ffffff&hide_border=true)
 
+</div>
+<div align="center">
+  <h3>Techs Stack</h3>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+  <img src="https://img.shields.io/badge/Uvicorn-5E7B1F?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn Badge">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 </div>
