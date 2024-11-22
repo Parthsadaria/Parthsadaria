@@ -50,7 +50,7 @@ Myself **Parth Sadaria**, a diploma student at **GP Jamnagar**. Tech and AI enth
 
 </div>
 <div align="center">
-  <h3>Techs Stack</h3>
+  <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
