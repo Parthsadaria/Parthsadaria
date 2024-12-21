@@ -23,7 +23,6 @@ Myself **Parth Sadaria**, a diploma student at **GP Jamnagar**. Tech and AI enth
 **My Projects**
 --------------
 * **NexuAI**: A free, open-source AI assistant that combines smart conversations with task automation. [Check it out!](https://github.com/Parthsadaria/NexuAI)
-* **Loki AI**: A free API provider  🚀. Get FREE access to all models like LLaMA 405B, Claude Sonnet, GPT-4O, and O1-Preview for free NOT EVEN API KEY NEEDED 🤖. Perfect for automation, AI-powered chats, and more ⚡. [LokiAI API](https://parthsadaria-lokiai.hf.space)
 * **Saavn API**: Access the free unofficial Saavn music API 🎶. Stream and explore Saavn's vast music library in 320kbps quality for free 🎧. [SAAVN API](https://parthsadaria-saavn.hf.space)
 ---
 
