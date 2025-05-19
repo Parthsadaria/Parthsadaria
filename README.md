@@ -22,8 +22,8 @@ Myself **Parth Sadaria**, a diploma student at **GP Jamnagar**. Tech and AI enth
 
 **My Projects**
 --------------
-* **NexuAI**: A free, open-source AI assistant that combines smart conversations with task automation. [Check it out!](https://github.com/Parthsadaria/NexuAI)
-* **Saavn API**: Access the free unofficial Saavn music API 🎶. Stream and explore Saavn's vast music library in 320kbps quality for free 🎧. [SAAVN API](https://parthsadaria-saavn.hf.space)
+* **LOKI AI**: A dope API supporting all models like o4mini, gpt-4o, claude-3-sonnet, and grok-3. 🚀
+* **FantomTV**: A sick movie site to watch all flicks for free, incl. the latest releases. 🍿🔥 [fantomtv.netlify.app](https://fantomtv.netlify.app)
 ---
 
 <div align="center">
