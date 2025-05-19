@@ -22,7 +22,7 @@ Myself **Parth Sadaria**, a diploma student at **GP Jamnagar**. Tech and AI enth
 
 **My Projects**
 --------------
-* **LOKI AI**: A dope API supporting all models like o4mini, gpt-4o, claude-3-sonnet, and grok-3. 🚀
+* **LOKI AI**: A dope API supporting all models like o4mini, gpt-4o, claude-3-sonnet, and grok-3. 🚀 [https://parthsadaria-lokiai.hf.space/playground](https://parthsadaria-lokiai.hf.space/playground)
 * **FantomTV**: A sick movie site to watch all flicks for free, incl. the latest releases. 🍿🔥 [fantomtv.netlify.app](https://fantomtv.netlify.app)
 ---
 
