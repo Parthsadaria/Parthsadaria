@@ -10,55 +10,68 @@
 </div>
 
 Hey There! 👋  
-Myself **Parth Sadaria**, a diploma student at **GP Jamnagar**. Tech and AI enthusiast, always up for learning something new. 🤖
+I’m **Parth Sadaria**, a diploma student at **GP Jamnagar**, obsessed with tech, AI, and building cool sh*t. 🤖⚡
 
 ---
 
-**About Me**
--------------
-* 🔭 Currently learning Python, C, C++, HTML, CSS, and JavaScript.
-* 🤖 Building AI and ML projects.
-* 🌐 Passionate about web development and automation.
+### 🔥 About Me
+- 👨‍💻 Currently learning: Python, C, C++, HTML, CSS, JS
+- 🤖 Working on AI + ML projects like a mad scientist
+- 🌍 Passionate about web dev, automation, and anything futuristic
 
-**My Projects**
---------------
-* **LOKI AI**: A dope API supporting all models like o4mini, gpt-4o, claude-3-sonnet, and grok-3. 🚀 [https://parthsadaria-lokiai.hf.space/playground](https://parthsadaria-lokiai.hf.space/playground)
-* **FantomTV**: A sick movie site to watch all flicks for free, incl. the latest releases. 🍿🔥 [fantomtv.netlify.app](https://fantomtv.netlify.app)
+---
+
+### 🚀 Featured Projects
+
+| Name      | Description                                                                                     | Link |
+|-----------|-------------------------------------------------------------------------------------------------|------|
+| 🧠 **LOKI AI** | API playground with GPT-4o, o4-mini, Claude 3 Sonnet, Grok 3, and more. Clean af.            | [Try it](https://parthsadaria-lokiai.hf.space/playground) |
+| 🎬 **FantomTV** | Watch all the latest movies & shows for free, no BS.                                        | [fantomtv.netlify.app](https://fantomtv.netlify.app) |
+| 🎵 **Zolt**     | A dark-themed, ad-free, buttery-smooth music player using the [Saavn API](https://saavn.dev), built by [Sumit Kolhe](https://github.com/sumitkolhe). UI goals fr. | [zolt.netlify.app](https://zolt.netlify.app) |
+
 ---
 
 <div align="center">
   
-  ### GitHub Stats 📊
+  ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthSadaria&theme=dark" height="150px" style="display: inline-block; margin: 0 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthSadaria&theme=dark" height="150px" style="display: inline-block; margin: 0 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSadaria&theme=dark&layout=compact" height="150px" style="display: inline-block; margin: 0 10px;" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthSadaria&theme=dark" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthSadaria&theme=dark" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSadaria&theme=dark&layout=compact" height="150px" />
 
 </div>
 
 ---
 
-**Contribution Graph**
-----------------------
+### 🧩 Contribution Graph
 
 <div align="center">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParthSadaria&custom_title=Parth%27s%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=888888&point=ffffff&hide_border=true)
 
 </div>
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <h3>Tech Stack</h3>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
-  <img src="https://img.shields.io/badge/Uvicorn-5E7B1F?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn Badge">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-5E7B1F?style=for-the-badge&logo=uvicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </div>
+
+---
+
+> ⚡ “Code, break it, fix it, flex it.”  
+> — Parth Sadaria 🐍
