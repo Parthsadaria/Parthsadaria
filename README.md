@@ -40,7 +40,7 @@ I'm **Parth Sadaria**, a diploma student at **GP Jamnagar**, obsessed with tech,
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ParthSadaria&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=ParthSadaria&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
