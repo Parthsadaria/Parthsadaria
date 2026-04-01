@@ -1,7 +1,5 @@
-# Parth Sadaria
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&lines=Diploma+%40+GP+Jamnagar;AI+%2F+ML+Builder;Code+it.+Break+it.+Fix+it.+Flex+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&lines=AI+%2F+ML+Builder+%F0%9F%A4%96;Diploma+%40+GP+Jamnagar;Code+it.+Break+it.+Fix+it.+Flex+it." alt="Typing SVG" />
 </div>
 
 ---
@@ -38,7 +36,7 @@ Currently deep into ML, web dev, and anything that makes people go *"wait, how?"
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthSadaria&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ParthSadaria&theme=dark&hide_border=true" height="150px" />
+  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=ParthSadaria&theme=dark&hide_border=true" height="150px" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthSadaria&theme=github_dark" height="150px" />
 </div>
 
