@@ -37,8 +37,9 @@ Currently deep into ML, web dev, and anything that makes people go *"wait, how?"
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthSadaria&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=false" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthSadaria&theme=github_dark" />
   <img src="https://github-readme-streak-stats.demolab.com/?user=ParthSadaria&theme=dark&hide_border=true" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthSadaria&theme=github_dark" height="150px" />
 </div>
 
 ---
