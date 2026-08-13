@@ -4,7 +4,7 @@
 
 ---
 
-Diploma student obsessed with AI, automation, and building things that actually work.  
+AI & ML student obsessed with automation, and building things that actually work.
 Currently deep into ML, web dev, and anything that makes people go *"wait, how?"*
 
 ---
@@ -14,9 +14,8 @@ Currently deep into ML, web dev, and anything that makes people go *"wait, how?"
 | | Name | Description |
 |--|------|-------------|
 | 🎬 | [FantomTV](https://fantomtv.netlify.app) | Free movies & shows. No BS. |
-| 🎵 | [Zolt](https://zolt.netlify.app) | Ad-free music player via Saavn API |
+| 🎵 | [Zolt](https://zolt.netlify.app) | Ad-free music player with Spotify import |
 | 📚 | [DDCET Trainer](https://ddcettrainer.netlify.app) | Gujarat exam prep — built by a student, for students |
-
 ---
 
 ### Stack
@@ -42,4 +41,4 @@ Currently deep into ML, web dev, and anything that makes people go *"wait, how?"
 
 ---
 
-> *"Code, break it, fix it, flex it."*
+> *"Code it. Break it. Fix it. Flex it."*
