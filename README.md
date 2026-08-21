@@ -4,9 +4,10 @@
 
 ---
 
-AI & ML student obsessed with automation(& reverse engineering stuff too :p) , and building things that actually work.
-Currently deep into ML, web dev, and anything that makes people go *"wait, how?"*
+AI & ML student obsessed with automation (and reverse engineering things too :p),
+building stuff that actually works.
 
+Currently deep into ML, web dev, and anything that makes people go *"wait, how?"*
 ---
 
 ### Projects
