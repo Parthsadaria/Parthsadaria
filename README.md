@@ -4,7 +4,7 @@
 
 ---
 
-AI & ML student obsessed with automation, and building things that actually work.
+AI & ML student obsessed with automation(& reverse engineering stuff too :p) , and building things that actually work.
 Currently deep into ML, web dev, and anything that makes people go *"wait, how?"*
 
 ---
@@ -13,8 +13,8 @@ Currently deep into ML, web dev, and anything that makes people go *"wait, how?"
 
 | | Name | Description |
 |--|------|-------------|
-| 🎬 | [FantomTV](https://fantomtv.netlify.app) | Free movies & shows. No BS. |
-| 🎵 | [Zolt](https://zolt.netlify.app) | Ad-free music player with Spotify import |
+| 🎬 | [FantomTV](https://fantomtv.netlify.app) | Movies. |
+| 🎵 | [Zolt](https://zolt.dukandost.in) | Music player coz bored with spotify |
 | 📚 | [DDCET Trainer](https://ddcettrainer.netlify.app) | Gujarat exam prep — built by a student, for students |
 ---
 
