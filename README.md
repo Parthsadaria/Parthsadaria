@@ -1,20 +1,9 @@
 <h1 align="center">Parth Sadaria</h1>
 <p align="center"><sub>AI & ML @ LJIET, Ahmedabad</sub></p>
 
-```
-$ whoami
-parth — second-year AI/ML student. builds first, reads docs after it breaks.
-
-$ cat focus.txt
-breaking things until they make sense
-adversarial ML + AI security (long game)
-GPU-heavy web stuff nobody asked for
-
-$ status
-FantomTV rework .......... in progress
-Zolt ..................... shipped
-next ..................... classified
-```
+<p align="center">
+  <img src="assets/terminal.svg" alt="terminal" width="100%" />
+</p>
 
 ---
 
