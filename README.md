@@ -2,7 +2,7 @@
 <p align="center"><sub>AI & ML @ LJIET, Ahmedabad</sub></p>
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="terminal" width="100%" />
+  <img src="assets/crt.svg" alt="terminal" width="100%" />
 </p>
 
 ---
